@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35728.132 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMath", "BasicMath\BasicMath.csproj", "{413B4611-3211-4579-A5EF-CC6FF032C240}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMathTests", "BasicMathTests\BasicMathTests.csproj", "{F832BE9A-FC95-473F-B589-CC7B164FE312}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{413B4611-3211-4579-A5EF-CC6FF032C240}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{413B4611-3211-4579-A5EF-CC6FF032C240}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{413B4611-3211-4579-A5EF-CC6FF032C240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F832BE9A-FC95-473F-B589-CC7B164FE312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F832BE9A-FC95-473F-B589-CC7B164FE312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F832BE9A-FC95-473F-B589-CC7B164FE312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F832BE9A-FC95-473F-B589-CC7B164FE312}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
